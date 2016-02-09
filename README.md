@@ -1,6 +1,6 @@
 # nan
 
-######Setup instructions for Nan
+######Setup instructions for Nan from Guy...
 >######Move to a directory you want to use
 >e.g. c:\projects
 >___
