@@ -5,14 +5,12 @@ var chai = require('chai');
 chai.should();
 
 
-module.exports = function(){
-    describe('add numbers', function(){
+describe('add numbers', function(){
 
-        it('should add correctly', function(){
-            true.should.be._false;
-            console.log('hello from test');
-        });
-
-        it('should add negative numbers');
+    it('should add correctly', function(){
+        true.should.be.falsy();
+        console.log('hello from test');
     });
-}
+
+    it('should add negative numbers');
+});
