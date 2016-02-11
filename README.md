@@ -8,6 +8,9 @@
 >git clone git@github.com:liunan1203/nan.git
 >
 >___
+>######Install node modules
+npm install
+>___
 >######Run your tests
 >mocha test
 >___
